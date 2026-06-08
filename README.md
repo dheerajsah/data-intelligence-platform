@@ -6,7 +6,7 @@ Agentic AI system built using Java + Spring Boot + Spring AI.
 Enterprise-grade AI agent system demonstrating orchestration, tool use, and memory-driven reasoning.
 
 ## Tech Stack
-- Java 21
+- OpenJDK Runtime Environment Corretto-26.0.1.8.1 (build 26.0.1+8-FR)
 - Spring Boot
 - Spring AI
 - PostgreSQL
@@ -14,4 +14,4 @@ Enterprise-grade AI agent system demonstrating orchestration, tool use, and memo
 - Docker
 
 ## Status
-🚧 Scaffold initialized
+Scaffold initialized
